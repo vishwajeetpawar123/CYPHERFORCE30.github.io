@@ -43,7 +43,7 @@
 >
     <div class="max-w-4xl w-full relative z-10">
         <h2
-            class="text-xs font-mono text-cyan-500 mb-4 tracking-[0.5em] uppercase"
+            class="text-xs font-mono text-fuchsia-500 mb-4 tracking-[0.5em] uppercase"
         >
             About Protocol
         </h2>
@@ -57,6 +57,6 @@
 
     <!-- Abstract Wireframe BG (CSS for now) -->
     <div
-        class="absolute right-0 top-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-cyan-500/20 rounded-full animate-spin-slow pointer-events-none opacity-20"
+        class="absolute right-0 top-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-fuchsia-500/20 rounded-full animate-spin-slow pointer-events-none opacity-20"
     ></div>
 </section>

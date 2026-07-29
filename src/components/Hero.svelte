@@ -22,14 +22,14 @@
         class="absolute inset-0 z-10 flex flex-col items-center justify-center pointer-events-none"
     >
         <h1
-            class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-purple-500 select-none text-center drop-shadow-[0_0_15px_rgba(6,182,212,0.5)]"
+            class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-600 via-cyan-400 to-rose-500 select-none text-center drop-shadow-[0_0_25px_rgba(236,72,153,0.8)] animate-pulse"
         >
             VISHWAJEET PAWAR
         </h1>
         <h2
-            class="mt-4 text-xl md:text-2xl font-mono text-gray-300 tracking-[0.3em] uppercase opacity-80 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-lg border border-white/10 text-center"
+            class="mt-4 text-xl md:text-2xl font-mono text-gray-300 tracking-[0.3em] uppercase opacity-80 bg-black/30 backdrop-blur-sm px-4 py-2 rounded-lg border border-fuchsia-500/50 shadow-[0_0_15px_rgba(217,70,239,0.5)] text-center"
         >
-            Creative Developer <span class="text-cyan-500">///</span> UI/UX Architect
+            Creative Developer <span class="text-fuchsia-500">///</span> UI/UX Architect
         </h2>
 
         <div
