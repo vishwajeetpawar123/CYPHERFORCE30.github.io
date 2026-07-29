@@ -7,22 +7,22 @@
 
     const experiences = [
         {
-            year: "Machine Learning",
-            title: "Applied ML & Modeling",
-            company: "Predictive Models",
-            desc: "Extensive experience with predictive modeling using CatBoost and Explainable Boosting Machines (EBM)."
+            year: "2025 - Present",
+            title: "Advanced ML & Full-Stack Projects",
+            company: "GitHub Portfolio",
+            desc: "Developing road & liver disease detection models (LIVER-DISEASE-DETECTION-2) in Python/Jupyter, and modern Svelte/TypeScript web apps like lguard-frontend & zorvyon."
         },
         {
-            year: "AI & Tools",
-            title: "Agentic AI Integration",
-            company: "LLMs & DevOps",
-            desc: "Integration of Large Language Models (LLMs), Git version control, and Linux-based development environments."
+            year: "2022 - 2024",
+            title: "Web Development & Scripts",
+            company: "GitHub Portfolio",
+            desc: "Built HTML/JS frontend projects (like 3d-shapes, my-tour) and various Python automated scripts (like quirk)."
         },
         {
-            year: "Frontend Architecture",
-            title: "State Management & UI",
-            company: "React & Svelte",
-            desc: "Proficient in Zustand and efficient data-handling architectures to streamline complex workflows."
+            year: "2021",
+            title: "Early Development & Training",
+            company: "GitHub Portfolio",
+            desc: "Started version control journey. Created Python dataset training scripts (dataset_traning.1 to .4) and JS interactive projects (mighty-eagle)."
         }
     ];
 
