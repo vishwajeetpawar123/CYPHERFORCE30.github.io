@@ -39,7 +39,7 @@
 
 <section
     bind:this={container}
-    class="min-h-screen flex items-center justify-center bg-black text-white px-8 py-20 relative overflow-hidden"
+    class="min-h-screen flex items-center justify-center bg-black text-white px-4 md:px-8 py-20 relative overflow-hidden"
 >
     <div class="max-w-4xl w-full relative z-10">
         <h2
@@ -49,7 +49,7 @@
         </h2>
         <p
             bind:this={textRef}
-            class="text-3xl md:text-5xl font-bold leading-tight font-mono text-gray-300 min-h-[200px]"
+            class="text-xl sm:text-3xl md:text-5xl font-bold leading-tight font-mono text-gray-300 min-h-[200px]"
         >
             Loading data stream...
         </p>
@@ -57,6 +57,6 @@
 
     <!-- Abstract Wireframe BG (CSS for now) -->
     <div
-        class="absolute right-0 top-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-fuchsia-500/20 rounded-full animate-spin-slow pointer-events-none opacity-20"
+        class="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-fuchsia-500/20 rounded-full animate-spin-slow pointer-events-none opacity-20"
     ></div>
 </section>
