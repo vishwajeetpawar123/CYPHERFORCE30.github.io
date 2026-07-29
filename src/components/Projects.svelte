@@ -33,7 +33,7 @@
         {
             title: "More",
             tech: "GitHub",
-            desc: "View 50+ other repositories and experiments on my profile.",
+            desc: "View 100+ other repositories and experiments on my profile.",
             link: "https://github.com/vishwajeetpawar123/",
         },
     ];

@@ -7,7 +7,7 @@
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-		"deploy": "npx gh-pages -d build -t --repo https://github.com/CYPHERFORCE30/CYPHERFORCE30.github.io.git",
+		"deploy": "npx gh-pages -d build -t --repo https://github.com/vishwajeetpawar123/CYPHERFORCE30.github.io.git",
 		"update": "npm run build && git add . && git commit -m \"Content Update\" && git push origin main && npm run deploy",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
