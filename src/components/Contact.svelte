@@ -2,7 +2,7 @@
     import confetti from "canvas-confetti";
 
     function copyEmail() {
-        navigator.clipboard.writeText("vishwajeet@example.com"); // Placeholder
+        navigator.clipboard.writeText("vishwajeetpawar3001@gmail.com"); // Placeholder
         confetti({
             particleCount: 100,
             spread: 70,
