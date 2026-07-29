@@ -7,22 +7,22 @@
 
     const experiences = [
         {
-            year: "2023 - Present",
-            title: "Senior UI/UX Architect",
-            company: "Cyber Systems",
-            desc: "Leading design and implementation of next-gen digital interfaces."
+            year: "Machine Learning",
+            title: "Applied ML & Modeling",
+            company: "Predictive Models",
+            desc: "Extensive experience with predictive modeling using CatBoost and Explainable Boosting Machines (EBM)."
         },
         {
-            year: "2021 - 2023",
-            title: "Creative Developer",
-            company: "Neon Matrix Studio",
-            desc: "Developed immersive 3D web experiences using WebGL and Three.js."
+            year: "AI & Tools",
+            title: "Agentic AI Integration",
+            company: "LLMs & DevOps",
+            desc: "Integration of Large Language Models (LLMs), Git version control, and Linux-based development environments."
         },
         {
-            year: "2019 - 2021",
-            title: "Frontend Engineer",
-            company: "Tech Frontier",
-            desc: "Built scalable frontend architectures and responsive web apps."
+            year: "Frontend Architecture",
+            title: "State Management & UI",
+            company: "React & Svelte",
+            desc: "Proficient in Zustand and efficient data-handling architectures to streamline complex workflows."
         }
     ];
 

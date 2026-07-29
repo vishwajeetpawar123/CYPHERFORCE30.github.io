@@ -9,7 +9,7 @@
     onMount(() => {
         const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
         const targetText =
-            "I am a creative developer exploring the frontiers of web technology, merging physics, 3D, and design to build immersive digital experiences.";
+            "I am a Full-Stack Developer focused on building performant, scalable web applications and implementing Applied Machine Learning solutions. I specialize in modern frontend frameworks and agentic AI integration.";
 
         // Hacker Text Effect on Scroll
         gsap.to(textRef, {
