@@ -6,9 +6,9 @@
     let sectionRef: HTMLElement;
 
     const skills = [
-        "SvelteKit", "Three.js", "TypeScript", "Tailwind CSS",
-        "React", "Next.js", "Node.js", "Python",
-        "WebGL", "GSAP", "Figma", "UI/UX Design"
+        "React 19", "Svelte", "Python", "Tailwind CSS v4",
+        "CatBoost", "EBM", "LLMs", "Git",
+        "Linux", "Zustand"
     ];
 
     onMount(() => {
