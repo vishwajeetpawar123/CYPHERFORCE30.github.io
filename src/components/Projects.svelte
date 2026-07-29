@@ -147,7 +147,7 @@
         class="relative md:absolute top-0 md:top-10 left-0 md:left-10 z-20 px-4 md:px-0 mb-8 md:mb-0"
     >
         <h2
-            class="text-xs font-mono text-cyan-500 tracking-[0.5em] uppercase mb-2"
+            class="text-xs font-mono text-fuchsia-500 tracking-[0.5em] uppercase mb-2"
         >
             Projects Database
         </h2>
@@ -170,11 +170,11 @@
                     this={project.link ? "a" : "div"}
                     href={project.link}
                     target={project.link ? "_blank" : null}
-                    class="tilt-card w-full h-full bg-slate-900/60 backdrop-blur-2xl border border-white/10 rounded-[2rem] p-8 md:p-12 flex flex-col justify-end transform-style-3d shadow-2xl relative overflow-hidden group transition-all duration-500 cursor-pointer text-left block"
+                    class="tilt-card w-full h-full bg-black/80 backdrop-blur-2xl border border-fuchsia-500/50 rounded-[2rem] p-8 md:p-12 flex flex-col justify-end transform-style-3d shadow-[0_0_20px_rgba(217,70,239,0.3)] relative overflow-hidden group transition-all duration-500 cursor-pointer text-left block"
                 >
                     <!-- Background Gradient -->
                     <div
-                        class="absolute inset-0 bg-gradient-to-br from-cyan-500/20 to-purple-500/20 opacity-0 group-hover:opacity-100 transition-duration-500"
+                        class="absolute inset-0 bg-gradient-to-br from-fuchsia-600/40 to-cyan-600/40 opacity-0 group-hover:opacity-100 transition-duration-500"
                     ></div>
 
                     <!-- Image Placeholder -->
@@ -184,7 +184,7 @@
 
                     <div class="relative z-10 translate-z-20">
                         <span
-                            class="text-cyan-400 font-mono text-sm mb-4 block tracking-wider bg-black/50 w-fit px-3 py-1 rounded-full border border-cyan-500/30"
+                            class="text-fuchsia-400 font-mono text-sm mb-4 block tracking-wider bg-black/50 w-fit px-3 py-1 rounded-full border border-fuchsia-500/50"
                             >{project.tech}</span
                         >
                         <h4

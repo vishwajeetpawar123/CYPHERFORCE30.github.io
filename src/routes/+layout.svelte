@@ -37,6 +37,8 @@
 <Preloader />
 <MagneticCursor />
 
+<div class="crt-overlay scanlines pointer-events-none fixed inset-0 z-50 mix-blend-overlay opacity-30"></div>
+
 <div
   class="antialiased text-gray-100 bg-gray-950 min-h-screen selection:bg-cyan-500 selection:text-white cursor-none"
 >
