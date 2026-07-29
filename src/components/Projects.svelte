@@ -152,7 +152,7 @@
             Projects Database
         </h2>
         <h3
-            class="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-500"
+            class="text-3xl md:text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-500"
         >
             Selected Works
         </h3>
@@ -188,12 +188,12 @@
                             >{project.tech}</span
                         >
                         <h4
-                            class="text-5xl md:text-7xl font-bold mb-4 leading-none"
+                            class="text-3xl sm:text-5xl md:text-7xl font-bold mb-4 leading-none"
                         >
                             {project.title}
                         </h4>
                         <p
-                            class="text-gray-300 max-w-lg text-lg leading-relaxed"
+                            class="text-gray-300 max-w-lg text-base md:text-lg leading-relaxed"
                         >
                             {project.desc}
                         </p>
